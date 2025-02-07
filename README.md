@@ -6,6 +6,7 @@ Actualizar el estado de una tarea (pendiente/completada).
 Eliminar una tarea por su ID.
 SOLUCIÓN
 1. Modelo de datos:
+
 ![Texto alternativo](images/BaseDatos.png)
 3. Endpoints:
 
