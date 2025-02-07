@@ -4,6 +4,7 @@ Crear una nueva tarea.
 Obtener una lista de todas las tareas.
 Actualizar el estado de una tarea (pendiente/completada).
 Eliminar una tarea por su ID.
+
 SOLUCIÓN
 1. Modelo de datos:
 
